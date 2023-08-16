@@ -1,0 +1,7 @@
+
+Fatal Error in Converter: 
+Error: Alias 'S5139343' is not found.
+Error Number: 13
+Method: writeresult
+Offending Code: SELECT ...
+File being processed: c:\fuel automation system\stock_details.frx
